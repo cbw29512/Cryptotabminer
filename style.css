@@ -33,12 +33,13 @@ ul {
     padding-left: 2rem;
 }
 
-li {
+a:active {
     color: #007bff;
     text-decoration: none;
 }
 
-li: hover {
+a:hover {
     text-decoration: underline;
+    color: blue;
 }
 
