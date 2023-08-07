@@ -33,12 +33,12 @@ ul {
     padding-left: 2rem;
 }
 
-a {
+li {
     color: #007bff;
     text-decoration: none;
 }
 
-a: hover {
+li: hover {
     text-decoration: underline;
 }
 
