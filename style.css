@@ -34,12 +34,12 @@ ul {
 }
 
 a:active {
-    color: #007bff;
+    color: #add8e6;
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: blue;
+    color: #007bff;
 }
 
